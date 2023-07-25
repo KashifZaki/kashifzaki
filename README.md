@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kashif Zaki</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+<a href="https://app.daily.dev/kashifzaki"><img src="https://api.daily.dev/devcards/63996d9fd9a344148ac0f5f49248211a.png?r=5xn" width="400" alt="Kashif Jaki's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifzaki&label=Profile%20views&color=0e75b6&style=flat" alt="kashifzaki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifzaki" alt="kashifzaki" /></a> </p>
